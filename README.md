@@ -17,22 +17,6 @@ A Machine Learning based phishing detection system that identifies malicious web
 
 ---
 
-## 🏗️ Project Architecture
-
-User URL
-↓
-Feature Extraction
-↓
-Machine Learning Models
-↓
-Rule-Based Analysis
-↓
-Risk Score Calculation
-↓
-Final Verdict
-
----
-
 ## 📂 Project Structure
 
 ```text
